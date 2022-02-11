@@ -14,39 +14,17 @@ I am a minimalist software craftsman/engineer, who enjoys solving problems throu
 - ✍ I'm starting to blog at [Dev Community](https://dev.to/tgdraugr). Check it out 👀
 - 💬 Ask me about C#, software craftsmanship, heavy metal, training, history, human behaviour, ethics (no particular order)
 
-### Technologies typically used
+### Current technologies
 
 <div style="display: inline_block">
-  <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="dotnetcore" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="kotlin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="aws" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  
-</div>
-
-### Technologies to revisit
-
-<div style="display: inline_block">
-  <img align="center" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="cplusplus" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="erlang" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
-
-### Technologies to explore
-
-<div style="display: inline_block">
-  <img align="center" alt="clojure" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="haskell" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="scala" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="fsharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="rust" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">&nbsp;&nbsp;
-  <img align="center" alt="go" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="ruby" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="git" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="dotnetcore" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="csharp" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="java" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="kotlin" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="aws" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="docker" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 ### How can you reach me 💞️
