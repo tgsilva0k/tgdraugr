@@ -7,6 +7,7 @@ I am a minimalist software craftsman/engineer, who enjoys solving problems throu
 - 🎶 I love going to concerts
 - 📚 I enjoy reading about: software (of course), science, philosophy, psychology, history
 - 🏋️‍♂️ I do CrossFit
+- 🌄 I enjoy exploring nature and hiking
 - 🔭 I'm currently working some coding katas to perfect coding skills and for fun
 - 🌱 I’m currently learning to be part of the community, becoming a better human and a better professional
 - 👨‍💻 I'm studying and practising TDD and refactoring skills to be more efficient (faster with high quality)
