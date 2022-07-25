@@ -28,7 +28,7 @@ I am a minimalist software craftsman/engineer, who enjoys solving problems throu
   <img align="center" alt="docker" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
-### How can you reach me 💞️
+### How can you reach me
 
 - [Email](mailto:tiagogabrielsilva0+dev@gmail.com)
 - [Twitter](https://twitter.com/tgdraugr)
