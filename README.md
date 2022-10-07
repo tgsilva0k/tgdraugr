@@ -1,6 +1,6 @@
 ### Hi there 👋, Tiago here
 
-I am a minimalist software craftsman/engineer, who enjoys solving problems through code. Passionated about coding, refactoring, evolutionary design, efficiency and 0 bugs 🐱‍💻 On my way to contribute to a better software industry and a better world, through studying, experimenting, sharing and mentoring.
+I am a minimalist software craftsman/engineer, who enjoys solving problems through code. Passionated about coding, refactoring, evolutionary design, efficiency and ~0 bugs 🐱‍💻 On my way to contribute to a better software industry and a better world, through studying, experimenting, sharing and mentoring.
 
 - 🎸 I'm a guitar player
 - 🎼 Im into heavy metal, rock, blues, jazz, classical
