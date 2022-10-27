@@ -1,6 +1,6 @@
 ### Hi there 👋, Tiago here
 
-I am a minimalist software craftsman/engineer, who enjoys solving problems through code. Passionated about coding, refactoring, evolutionary design, efficiency and ~0 bugs 🐱‍💻 On my way to contribute to a better software industry and a better world, through studying, experimenting, sharing and mentoring.
+I am a minimalist software craftsman & engineer, who enjoys solving problems through code. Passionated about coding, refactoring, evolutionary design, efficiency and ~0 bugs 🐱‍💻 On my way to contribute to a better software industry and a better world, through studying, experimenting, sharing and mentoring.
 
 - 🎸 I'm a guitar player
 - 🎼 Im into heavy metal, rock, blues, jazz, classical
@@ -24,6 +24,7 @@ I am a minimalist software craftsman/engineer, who enjoys solving problems throu
   <img align="center" alt="java" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;
   <img align="center" alt="kotlin" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">&nbsp;&nbsp;
   <img align="center" alt="python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="go" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">&nbsp;&nbsp;
   <img align="center" alt="aws" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">&nbsp;&nbsp;
   <img align="center" alt="docker" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
