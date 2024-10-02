@@ -12,7 +12,7 @@ I am a software engineer, who enjoys solving problems through code. Passionated 
 - 🌱 I try my best to be part of the community, becoming a better human and a better professional
 - 👨‍💻 I continuously studying and practising TDD and refactoring skills to be more efficient (faster with high quality)
 - 🚀 I have a drive to collaborate on projects that may have a positive impact in the world
-- ✍ I started to blog at [Dev Community](https://dev.to/tgdraugr), although I've been a bit inactive. Still, check it out 👀
+- ✍ I started to blog at [Dev Community](https://dev.to/tgsilva0k), although I've been a bit inactive. Still, check it out 👀
 - 💬 Ask me about software craftsmanship, testing, heavy metal, training, history, human behaviour, ethics, etc. (no particular order)
 
 ### Current technologies
@@ -43,5 +43,5 @@ I am a software engineer, who enjoys solving problems through code. Passionated 
 ### How can you reach me
 
 - [Email](mailto:tiagogabrielsilva0+dev@gmail.com)
-- [Twitter](https://twitter.com/tgdraugr)
-- [LinkedIn](https://www.linkedin.com/in/tgdraugr/)
+- [Twitter](https://twitter.com/tgsilva0k)
+- [LinkedIn](https://www.linkedin.com/in/tgsilva0k/)
